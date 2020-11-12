@@ -1,0 +1,16 @@
+2020.11.10 17:38:04 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\maina\Desktop\PyGUI' for client vscode.
+2020.11.10 17:38:04 INFO  time: initialize in 0.84s
+2020.11.10 17:38:07 WARN  no build tool detected in workspace 'C:\Users\maina\Desktop\PyGUI'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.10 23:13:09 INFO  shutting down Metals
+2020.11.12 10:49:46 INFO  Started: Metals version 0.9.5 in workspace 'C:\Users\maina\Desktop\PyGUI' for client vscode.
+2020.11.12 10:49:48 INFO  time: initialize in 1.76s
+2020.11.12 10:49:50 WARN  Build server is not auto-connectable.
+2020.11.12 10:49:50 WARN  no build tool detected in workspace 'C:\Users\maina\Desktop\PyGUI'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.12 13:08:40 INFO  shutting down Metals
+2020.11.12 16:28:57 INFO  Started: Metals version 0.9.5 in workspace 'C:\Users\maina\Desktop\PyGUI' for client vscode.
+2020.11.12 16:28:58 INFO  time: initialize in 0.89s
+2020.11.12 16:29:04 WARN  Build server is not auto-connectable.
+2020.11.12 16:29:04 WARN  no build tool detected in workspace 'C:\Users\maina\Desktop\PyGUI'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Nov 12, 2020 4:37:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.11.12 19:01:31 INFO  shutting down Metals
